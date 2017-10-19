@@ -1,5 +1,41 @@
+<<<<<<< HEAD
 system.out.println("hello hell");
 system.out.println("hello hell fuck");
 system.out.println("japa viado");
 system.out.println("viado caralho, mimimi");
 ...
+=======
+﻿system.out.println("avi�o");
+teste do ze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+isyedbjuhsdvbIEDBCFIYEWSVBIYVEFDIBED
+OWÇEUAICFPOIUWEF´W
+´RDFVAWEÓRIFH
+i
+
+
+
+
+
+
+I love Airplanes hentai
+I am Hentai
+>>>>>>> c22996c59a2ed53689462eb3615c4f751c491fcf
