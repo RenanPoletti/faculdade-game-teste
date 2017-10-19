@@ -4,5 +4,3 @@ system.out.println("hello hell fuck");
 system.out.println("japa viado");
 system.out.println("viado caralho, mimimi");
 =======
-system.out.println("DON'T FUCK WITH ALL");
->>>>>>> 0b025458695b6679ada48aa6742fd5982e0c0f3c
